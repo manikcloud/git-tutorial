@@ -9,3 +9,10 @@ git-tutorial
 ---------------
 
 - topic 4
+
+--------------
+
+### Learning about git config 
+
+- git config --global user.name "varun"
+- git config --global user.email "varun @yahoo.com"
