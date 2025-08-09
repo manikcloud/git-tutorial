@@ -14,5 +14,5 @@ git-tutorial
 
 ### Learning about git config 
 
-- git config --global user.name "varun"
+- git config --global user.name "Krish"
 - git config --global user.email "varun @yahoo.com"
